@@ -4,7 +4,7 @@ Dans ce repo, nous allons voir comment implémenter le mappage bidirectionnel Sp
 ### Technologies
 ---
 - Java 11
-- Spring Boot 2.7.3
+- Spring Boot 2.7.7
 - Spring Data JPA
 - Lombok
 - Maven 3+
