@@ -1,4 +1,4 @@
-## Spring Data JPA/Hibernate | One-To-One
+## Spring Data JPA/Hibernate | One-To-Many
 Dans ce repo, nous allons voir comment implémenter le mappage bidirectionnel Spring JPA `One-To-Many`/`Many-To-One` avec Hibernate dans un exemple Spring Boot à l'aide d'annotations `@OneToMany` et `@ManyToOne`.
 
 ### Technologies
